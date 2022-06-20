@@ -1,0 +1,88 @@
+.footer{
+    height: 70vh;
+    background-color: rgb(31, 31, 31);
+
+}
+
+.area1{    
+    width: 1100px;
+    height: 300px;
+    position: relative;
+    left: 400px;
+    top: 50px;
+    border-bottom: rgb(100, 100, 100) 1px solid;
+}
+
+.left ul {
+    position: relative;
+    left: -40px;
+    top: 30px;
+}
+.left ul li {
+    list-style: none;
+    padding-top: 20px;
+}
+.left ul li a{
+    font-size: 24px;
+    color: white;
+    font-weight: bold;
+}
+
+.right {
+    position: absolute;
+    right: 0px;
+    top: 30px;
+}
+
+.right ul {
+    list-style: none;
+}
+
+.right strong{
+    color: white;
+}
+
+.right ul li p{
+    
+    
+    color: rgb(116, 116, 116);
+}
+
+.foot{
+    position: relative;
+    left: 360px;
+    top: 100px;
+    
+}
+
+.foot ul li{
+    float: left;
+    padding-right: 20px;
+    list-style: none;
+}
+
+.foot ul li a{
+    color: white;
+    font-weight: 900;
+    font-size: 14px;
+    text-decoration: none;
+}
+
+.foot2{
+    text-align: left;
+    position: relative;
+    float: left;
+    top: 120px;
+    left: -410px;
+    
+}
+
+.foot2 ul li{
+    padding-top: 10px;
+    color: rgb(87, 87, 87);
+    list-style: none;
+    font-size: 14px;
+    font-weight: 600
+    ;
+}
+

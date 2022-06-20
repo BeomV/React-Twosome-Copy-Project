@@ -1,0 +1,114 @@
+.Section02 {
+  height: 100vh;
+  width: 2021px;
+ 
+  
+  
+}
+
+.main-title {
+  position: absolute;
+  left: 340px;
+  top: 1040px;
+  display: inline-block;
+  margin-top: 20vh;
+  opacity: 1;
+  line-height: 1;
+  color: #000;
+  font-size: 96px;
+  font-weight: 900;
+  z-index: 2;
+  
+}
+
+.rect {
+  position: absolute;
+  top: 1300px;
+  left: 1000px;
+  background-color: #d50037;
+  width: 20px;
+  height: 20px;
+  display: inline-block;
+  z-index: 1;
+}
+
+.subtitle {
+  position: relative;
+  top: 400px;
+  left: 300px;
+
+}
+.subtitle li{
+  list-style: none;
+  padding-top: 60px;
+
+}
+
+.subtitle li a{
+   font-size: 32px;
+   font-weight: 900;
+   text-decoration: none;
+   
+   
+}
+
+.COFFEE {
+  border-bottom: 3px solid #000;
+  color: #000;
+  
+}
+.grayfont {
+  color: rgb(155, 155, 155);
+}
+
+
+
+.subsub {
+  position: relative;
+  top: 50px;
+  font-size: 16px;
+  margin: 0;
+  font-weight: 900;
+
+}
+
+.mainimg{
+  position: relative;
+  left: 800px;
+  z-index: 0;
+}
+.mainimg img{
+  width: 488px;
+  height: 488px;
+}
+
+.subimg{
+  position: absolute;
+  top: 1590px;
+  left: 1300px;
+
+}
+.subimg img{
+  float: left;
+  width: 176px;
+  margin-left: 30px;
+}
+
+.blackrect{
+  position: relative;
+  width: 430px;
+  height: 60px;
+  left: 830px;
+  top: -30px;
+  background-color: #000;
+  text-align: center;
+}
+
+.blackrect p{
+  position: relative;
+  top: 20px;
+  font-size: 16px;
+  font-weight: bold;
+  color: #fff;
+
+}

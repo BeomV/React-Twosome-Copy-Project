@@ -1,0 +1,73 @@
+.Section3 {
+  text-align: center;
+  z-index: 1;
+  width: 2021px;
+  margin: 0;
+  
+  
+}
+.Section3 img{
+  position: relative;
+  z-index: 1;
+  width: 2021px;
+  height: 100vh;
+  
+}
+
+.alist {
+  position: absolute;
+  left: 340px;
+  top: 2040px;
+  display: inline-block;
+  margin-top: 20vh;
+  opacity: 1;
+  line-height: 1;
+  color: #000;
+  font-size: 96px;
+  font-family: "Mark Pro";
+  font-weight: 800;
+  z-index: 2;
+  
+}
+
+.alist_subtitle{
+  top: 2440px;
+  left: 340px;
+  position: absolute;
+  z-index: 3;
+  text-align: left;
+  
+}
+
+.alist_subtitle strong {
+  font-weight: 900;
+  font-size: 32px;
+}
+
+.alist_subtitle span{
+  font-size: 22px;
+  font-weight: bold;
+
+}
+
+.sub_Contents{
+  width: 525px;
+
+}
+
+
+.sub_Contents p{
+  font-size: 17px;
+
+}
+
+.rect2 {
+  position: absolute;
+  top: 2300px;
+  left: 850px;
+  background-color: #d50037;
+  width: 20px;
+  height: 20px;
+  display: inline-block;
+  z-index: 1;
+}
